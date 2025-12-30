@@ -1,4 +1,4 @@
-# Reservation Daily Splitter Tool
+# Daily Splitter Tool (App 1)
 
 A Streamlit web application that converts reservation-level data into **daily stay entries**.  
 This tool is designed for property managers, hotels, serviced apartments, and operations teams who need to analyse revenue on a **per-night basis**.
