@@ -75,7 +75,7 @@ def split_reservations(df: pd.DataFrame) -> pd.DataFrame:
 
 # ---------------- STREAMLIT APP ----------------
 
-st.title("Reservation Daily Split Tool")
+st.title("Daily Split Tool")
 
 st.write(
     "Upload a reservations Excel file (.xlsx) and this tool will:\n"
